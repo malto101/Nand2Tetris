@@ -5,7 +5,6 @@ nav_order: 1
 description: "Through the Nand2Tetris course, I’ll document each step of my learning process—starting with a simple NAND gate and progressing to a fully functioning computer, complete with its own software."
 permalink: /
 has_children: false
-
 ---
 
 # Building a Computer from Scratch: My Nand2Tetris Journey  
